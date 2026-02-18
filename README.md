@@ -31,7 +31,7 @@ Personal finance management application with AI-powered insights.
 ### 1. Clone Repository
 
 ```bash
-git clone <your-repo-url>
+git clone https://github.com/Ikhwanand/finance-tracker-app
 cd finance-tracker-app
 ```
 
